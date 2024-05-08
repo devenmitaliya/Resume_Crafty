@@ -18,9 +18,6 @@ Here are some screenshots of the project to give you an idea of its features and
 ###### Select Template Page
 ![Select Template](https://user-images.githubusercontent.com/87645745/213860462-ea8bd7db-2c15-4633-9894-113f047cc13b.png)
 
-###### Resume Builder Page
-![Resume Building](https://user-images.githubusercontent.com/87645745/213860488-d6215b7a-507e-40ff-b42b-a901cca3d0b9.png)
-
 ###### Dark Mode
 ![Dark Mode](https://user-images.githubusercontent.com/87645745/213860517-73a40b9c-dd35-4586-a253-757c654f19c7.png)
 
